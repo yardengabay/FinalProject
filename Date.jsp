@@ -8,7 +8,7 @@
 <title>Guru current Date yarden gabay</title>
 </head>
 <body>
-Today's date: <%= (new java.util.Date()).toLocaleString()%>
+Today's date Yarden: <%= (new java.util.Date()).toLocaleString()%>
 </body>
 
 </html>
